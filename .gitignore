@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Postman export directories
+postman_exports*/
+
+# macOS
+.DS_Store
+
+# Personal Postman data
+*.postman_collection.json
+collections.json
+my-workspace.json
+workspaces.json
+
+# Development files
+main.py
